@@ -1,4 +1,4 @@
-## 🤙🏾 About me:
+## About me:
 - 👋 Hi, I’m @4bm4
 - 👀 I’m interested in machine learning, neural networks, NLP, medicine, ophtalmology.
 - 🌱 I’m learning data science, python, JS, R and C.  
